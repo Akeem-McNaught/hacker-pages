@@ -1,3 +1,5 @@
+Meteor.subscribe('hackers');
+
 Meteor.hackerList.helpers({
 
 	'Hackers': function(){
